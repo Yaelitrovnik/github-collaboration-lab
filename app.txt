@@ -1,3 +1,1 @@
-This app includes a basic user greeting feature.
-\n## User Greeting\nThis feature allows the app to greet users by name.
-\nMake sure the user's name is displayed correctly.
+\n## User Greeting\nNow supports emojis! 😊
