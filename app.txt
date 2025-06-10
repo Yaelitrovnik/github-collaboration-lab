@@ -1,1 +1,2 @@
 This app includes a basic user greeting feature.
+\n## User Greeting\nThis feature allows the app to greet users by name.
